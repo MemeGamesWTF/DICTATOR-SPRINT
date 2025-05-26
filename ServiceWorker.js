@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-DefaultGame-1.0";
 const contentToCache = [
-    "Build/Build.loader.js",
-    "Build/Build.framework.js",
-    "Build/Build.data",
-    "Build/Build.wasm",
+    "Build/Build2.loader.js",
+    "Build/Build2.framework.js",
+    "Build/Build2.data",
+    "Build/Build2.wasm",
     "TemplateData/style.css"
 
 ];
